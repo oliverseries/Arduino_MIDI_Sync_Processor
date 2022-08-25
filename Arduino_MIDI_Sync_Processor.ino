@@ -1,6 +1,8 @@
 int i;
-byte commandByte;
 int isRunning;
+
+byte commandByte;
+
 unsigned long previousMillis = 0;
 
 void setup() {
